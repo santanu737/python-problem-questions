@@ -1,12 +1,17 @@
 # Python Problem Questions
 
-A repository dedicated to Python practice problems, algorithmic challenges, and exercise solutions designed to build core programming and problem-solving skills.
+A repository dedicated to Python practice problems, algorithmic challenges,
+and exercise solutions designed to build core programming and problem-solving skills.
 
-##  Topics Covered
+---
+
+## Topics Covered
+
 - **Fundamentals:** Variables, loops, functions, and control flow.
 - **Data Structures:** Lists, dictionaries, tuples, sets, and strings.
 - **Algorithms:** Sorting, searching, and common coding challenges.
 
+---
 
 ## File Index
 
@@ -24,9 +29,24 @@ A repository dedicated to Python practice problems, algorithmic challenges, and 
 | `10_tuple.py` | 05-08-2026 |
 | `11_set.py` | 06-08-2026 |
 | `12_dictionary.py` | 06-08-2026 |
+| `13_lambda.py` | 18-08-2026 |
+| `14_string.py` | 12-08-2026 |
+| `15_class.py` | 13-08-2026 |
+| `16-transport_inheritance.py` | 19-08-2026 |
+| `17_inheritance_with_constructor.py` | 19-08-2026 |
+| `18_bus_transport_constructor.py` | 19-08-2026 |
+| `19_Polymorphism_book.py` | 19-08-2026 |
+| `20_polymorphism_boat_bus.py` | 19-08-2026 |
+
+---
+
+## How to Run
+
+```bash
+python <filename>.py
+```
 
 ---
 
 ## Author
 Santanu
-
