@@ -29,7 +29,7 @@ and exercise solutions designed to build core programming and problem-solving sk
 | `10_tuple.py` | 05-08-2026 |
 | `11_set.py` | 06-08-2026 |
 | `12_dictionary.py` | 06-08-2026 |
-| `13_lambda.py` | 18-08-2026 |
+| `13_lambda.py` | 08-08-2026 |
 | `14_string.py` | 12-08-2026 |
 | `15_class.py` | 13-08-2026 |
 | `16-transport_inheritance.py` | 19-08-2026 |
