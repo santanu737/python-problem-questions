@@ -32,12 +32,12 @@ and exercise solutions designed to build core programming and problem-solving sk
 | `13_lambda.py` | 08-08-2026 |
 | `14_string.py` | 12-08-2026 |
 | `15_class.py` | 13-08-2026 |
-| `16-transport_inheritance.py` | 19-08-2026 |
-| `17_inheritance_with_constructor.py` | 19-08-2026 |
-| `18_bus_transport_constructor.py` | 19-08-2026 |
-| `19_Polymorphism_book.py` | 19-08-2026 |
-| `20_polymorphism_boat_bus.py` | 19-08-2026 |
-
+| `16-transport_inheritance.py` | 17-08-2026 |
+| `17_inheritance_with_constructor.py` | 17-08-2026 |
+| `18_bus_transport_constructor.py` | 17-08-2026 |
+| `19_Polymorphism_book.py` | 17-08-2026 |
+| `20_polymorphism_boat_bus.py` | 17-08-2026 |
+a
 ---
 
 ## How to Run
