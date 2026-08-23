@@ -22,6 +22,7 @@ General term: i^2 / i!
 # OR 
 
 
+
 import math
 
 def seriesSum(n):
