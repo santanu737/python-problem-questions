@@ -9,6 +9,7 @@ class Triangle:
         self.angle2 = angle2
         self.angle3 = angle3
 
+
 class EquilateralTriangle(Triangle):
     def cal_area(self):
         area = (math.sqrt(3) / 4) * (self.side1 ** 2)
