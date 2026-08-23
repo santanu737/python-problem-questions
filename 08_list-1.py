@@ -27,6 +27,7 @@ max_marks_index=marks.index(max_marks)
 min_marks_index=marks.index(min_marks)
 
 
+
 high=names[max_marks_index]
 low=names[min_marks_index]
 
