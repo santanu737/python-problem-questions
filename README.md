@@ -37,7 +37,7 @@ and exercise solutions designed to build core programming and problem-solving sk
 | `18_bus_transport_constructor.py` | 17-08-2026 |
 | `19_Polymorphism_book.py` | 17-08-2026 |
 | `20_polymorphism_boat_bus.py` | 17-08-2026 |
-a
+
 ---
 
 ## How to Run
