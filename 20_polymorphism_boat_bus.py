@@ -6,6 +6,8 @@ class Transport:
         print("Type of Transport:", self.type)
 
 
+
+
 class Boat(Transport):
     def __init__(self, type, capacity, source, destination):
         super().__init__(type)
