@@ -6,6 +6,7 @@ class Transport:
         print("Transport type:", self.type)
 
 
+
 class Bus(Transport):
     def input_val(self, seat_no, source, destination):
         self.seatno = seat_no
