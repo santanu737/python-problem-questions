@@ -29,3 +29,4 @@ print("above avg students")
 above_avg=list(filter(lambda x: students[x]["marks"]>avg_marks,students))
 for k in above_avg:
     print(k, students[k])
+    

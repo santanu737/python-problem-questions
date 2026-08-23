@@ -4,6 +4,7 @@ class Student:
         self.name = name
 
 
+
 class uqstudent(Student):
     def __init__(self, roll, name, idp):
         super().__init__(roll, name)

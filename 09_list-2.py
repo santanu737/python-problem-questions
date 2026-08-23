@@ -20,9 +20,6 @@ for mark in marks:
 print("students those are scoring more than avg is:",count)
 
 
-# frequent=marks[0]
-# max_count =marks.count(frequent)
-
 # for i  in  marks:
 #     if marks.count(i)>max_count:
 #         max_count=marks.count(i)

@@ -9,3 +9,4 @@ def dosum(num):
 n=int (input("enter a number:"))
 print("sum is :" ,dosum(n))
 
+
