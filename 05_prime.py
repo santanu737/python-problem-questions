@@ -10,3 +10,4 @@ if isprime(6):
     print("prime no")
 else:
     print("nota prime no ")
+    
