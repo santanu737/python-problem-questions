@@ -17,3 +17,4 @@ if(checkarmstrong(n)):
     print("your no is  armstrong no")
 else:
     print("this no is not a armstrong no")
+    
