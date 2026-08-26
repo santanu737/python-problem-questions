@@ -40,13 +40,7 @@ and exercise solutions designed to build core programming and problem-solving sk
 
 ---
 
-## How to Run
 
-```bash
-python <filename>.py
-```
-
----
 
 ## Author
 Santanu
