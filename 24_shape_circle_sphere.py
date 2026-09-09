@@ -11,7 +11,7 @@ class Circle(Shape):
 
 class Sphere(Shape):
     def cal_volume(self):
-        vol = (4/3) * math.pi * self.r**3
+        vol = (4/3) * math.pi * self.r**3        #use pow method of math class
         return vol
 
 c1 = Circle(5)
